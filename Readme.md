@@ -36,7 +36,7 @@ You can run it easily using Visual Studio:
     input `Install-Package nupengl.core` to install the dependencies for `glut.h` and `GL.h`
 4. compile and run
 
-You may run it under other C++ IDE, with OpenGL2 installed (`glut.h` and `GL.h` needed).  
+You may run it under other C++ IDE or environment, with OpenGL2 installed (`glut.h` and `GL.h` needed).  
 The source code is `main.cpp` in the `Project1` folder. Some useful libraries and dependencies are in the same folder as well:
 (you may not need all of them according to your OS):
    - `AntTweakBar.h`
