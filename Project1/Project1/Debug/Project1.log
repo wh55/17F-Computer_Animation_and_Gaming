@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\wan\desktop\gamestudy\project1\project1\main.cpp(68): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\wan\desktop\gamestudy\project1\project1\main.cpp(364): warning C4305: '=': truncation from 'double' to 'float'
+  Project1.vcxproj -> C:\Users\WAN\Desktop\GameStudy\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\WAN\Desktop\GameStudy\Project1\Debug\Project1.pdb (Full PDB)
