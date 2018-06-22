@@ -7,15 +7,15 @@ Subjects include 2D and 3D transformations, skeletons, forward and inverse kinem
 ## What's inside the folder
 This folder contains the source code for the project of the course.
 
-- `animproject.pptx` is the slide used during the 10-minute demo of the project.
+- `Project1` is the whole visual studio project folder including the source code and some useful library files.
 
 - `Project-Proposal.pdf` is the requirement for the project.
 
-- `project.png` is the snapshot of the user interface.
-
-- `Project1` is the whole visual studio project folder including the source code and some useful library files.
+- `animproject.pptx` is the slide used during the 10-minute demo of the project.
 
 - `Report.docx` is the report for the project including description of the work, detailed implementations and analysis.
+
+- `project.png` is the snapshot of the user interface.
 
 
 ## Project: Particle System
