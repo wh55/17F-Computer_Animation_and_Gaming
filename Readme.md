@@ -24,7 +24,7 @@ C++ / OpenGL2 / Desktop Application
 The project is to implement a particle system, animate about 1000 particles with simple physics (gravity and wind), and bounce off the particles against a ground plane with damping.
 
 
-![Assignment3 Snapshot](project.png)
+![Project Snapshot](project.png)
 
 Detailed description is in `Report.docx`
 
