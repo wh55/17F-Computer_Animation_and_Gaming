@@ -11,9 +11,9 @@ This folder contains the source code for the project of the course.
 
 - `Project-Proposal.pdf` is the requirement for the project.
 
-- `animproject.pptx` is the slide used during the 10-minute demo of the project.
-
 - `Report.docx` is the report for the project including description of the work, detailed implementations and analysis.
+
+- `animproject.pptx` is the slide used during the 10-minute demo of the project.
 
 - `project.png` is the snapshot of the user interface.
 
